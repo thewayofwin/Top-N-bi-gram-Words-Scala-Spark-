@@ -1,3 +1,8 @@
+/*
+Run on databricks
+*/
+
+
 import org.apache.spark.ml.feature.{RegexTokenizer, Tokenizer}
 import org.apache.spark.ml.feature.StopWordsRemover
 import org.apache.spark.ml.feature.NGram
