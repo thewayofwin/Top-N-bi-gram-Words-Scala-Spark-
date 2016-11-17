@@ -1,0 +1,8 @@
+Working spark on databricks
+
+Input: Alice is testing spark application. Testing spark is fun.
+Output: (test spark)  2
+
+Input: Alice is testing spark application. Testing spark is fun.Testing spark is hard work.<html></html>Hard work.
+Output: (test spark)  3
+	(hard work)  2
